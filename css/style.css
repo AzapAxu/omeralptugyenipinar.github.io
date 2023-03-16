@@ -1,6 +1,6 @@
 body {
-    background-image: url("/images/CV-TEMPLATES-FINAL-JULY-01.png");
-    background-color: rgba(255, 255, 255, 0.9);
+    background-image: url("/images/sea-edge-79ab30e2.png");
+    background-color: rgba(255, 255, 255, 1);
     color: white;
     background-position: center;
     background-repeat: no-repeat;
@@ -10,3 +10,15 @@ body {
    table, th, td {
     text-align: center;
   }
+  .header {
+    background-color: #211f1f;
+    padding: 20px;
+    text-align: center;
+  }
+  .footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+  background-color: #211f1f;
+}
